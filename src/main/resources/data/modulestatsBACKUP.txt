@@ -1,0 +1,7 @@
+Mathe2,78781
+ProPra1,70057
+Datenbanken1,25963
+Computernetzwerke,10
+Theorethische Informatik,6338
+MathTrainer Projekt,7006
+Anki,409

@@ -1,0 +1,7 @@
+Mathematik fuer Informatiker 2,78852
+ProPra,73066
+Datenbanken: Einfuehrung,25963
+Computernetzwerke,10
+Theorethische Informatik,6338
+MathTrainer Projekt,7006
+Anki,409
